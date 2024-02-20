@@ -8,3 +8,5 @@ My small business network created in GNS3
 ![image](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/bd385bd7-e2fd-41e7-9878-6008dca9d5d4)
 
 2. 
+
+![image](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/6348a6ba-f98e-4316-b74f-53fb7b13bfb8)
