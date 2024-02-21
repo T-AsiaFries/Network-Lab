@@ -3,7 +3,7 @@ My small business network created in GNS3
 
 ## Network Topology
 
-- Establishing a WAN-CLOUD linked to a WAN-SWITCH allowing for centralized management and control of wide area network (WAN) connections, efficient routing, and traffic prioritization across geographically dispersed locations.
+1. Establishing a WAN-CLOUD linked to a WAN-SWITCH allowing for centralized management and control of wide area network (WAN) connections, efficient routing, and traffic prioritization across geographically dispersed locations.
 
 ![image](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/87d2ec95-5e1c-41cc-80e3-a47e4895191b)
 
@@ -18,3 +18,5 @@ My small business network created in GNS3
 4. Adding my Win10-1 workstation and linking it to the LAN-SWITCH to ensure the workstation can communicate effectively with other devices and applications within the LAN environment while maintaining security protocols and access permissions.
 
 ![Win10-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/f52d967f-588a-408d-a6de-8246daa5f7b4)
+
+5. 
