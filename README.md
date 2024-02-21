@@ -15,8 +15,11 @@ My small business network created in GNS3
 
 ![Switches drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/8e3cc968-f407-43ab-804b-3f98c86a79df)
 
-4. Adding my Win10-1 workstation and linking it to the LAN-SWITCH to ensure the workstation can communicate effectively with other devices and applications within the LAN environment while maintaining security protocols and access permissions.
+4. Adding a Win10-1 workstation and linking it to the LAN-SWITCH to ensure the workstation can communicate effectively with other devices and applications within the LAN environment while maintaining security protocols and access permissions.
 
 ![Win10-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/f52d967f-588a-408d-a6de-8246daa5f7b4)
 
-5. 
+5. Adding a Win2012r2-1 server to my network and linking it to my LAN-SWITCH to enable centralized services(Active Directory, DNS, DHCP, and file sharing) facilitating efficient management of network resources and user authentication.
+
+![Win2012r2-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/6d0ce846-cb19-4bbe-a74a-a64ac7ebb03d)
+
