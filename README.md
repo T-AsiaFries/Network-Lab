@@ -31,6 +31,6 @@ My small business network created in GNS3
 
 ![Ubuntu-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/e65cbdcf-20b4-4ead-ba07-deb56386d3fd)
 
-8. 
+8. Adding a Win2012r2-3 server to expand Active Directory services and facilitate secure access to external-facing resources.
 
 ![Win2012r2-3 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/8f71206e-cd2e-4305-89a3-a15363f270e5)
