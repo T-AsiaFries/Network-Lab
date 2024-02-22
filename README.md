@@ -30,3 +30,7 @@ My small business network created in GNS3
 7. Adding a Ubuntu-1 server to provide external-facing services, enhance network security and expand resource accessibility while maintaining network segmentation for enhanced security.
 
 ![Ubuntu-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/e65cbdcf-20b4-4ead-ba07-deb56386d3fd)
+
+8. 
+
+![Win2012r2-3 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/8f71206e-cd2e-4305-89a3-a15363f270e5)
