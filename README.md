@@ -26,3 +26,7 @@ My small business network created in GNS3
 6. Adding a Win2012r2-2 server to my network and linking it to my LAN-SWITCH to expand the network's capacity while adding resilience and redundancy. This server's integration will facilitate load balancing, fault tolerance, and scalability, improving the performance overall and reliability of the network infrastructure.
 
 ![Win2012r2-2 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/1cdae4be-19ad-4a8e-afe7-af05a619acb0)
+
+7. 
+
+![Ubuntu-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/e65cbdcf-20b4-4ead-ba07-deb56386d3fd)
