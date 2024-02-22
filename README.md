@@ -27,6 +27,6 @@ My small business network created in GNS3
 
 ![Win2012r2-2 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/1cdae4be-19ad-4a8e-afe7-af05a619acb0)
 
-7. 
+7. Adding a Ubuntu-1 server to provide external-facing services, enhance network security and expand resource accessibility while maintaining network segmentation for enhanced security.
 
 ![Ubuntu-1 drawio](https://github.com/T-AsiaFries/Network-Lab/assets/147548652/e65cbdcf-20b4-4ead-ba07-deb56386d3fd)
